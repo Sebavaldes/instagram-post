@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+}
+
+.foto{
+    background: white;
+    width: 25%;
+    margin: auto     
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+
+.cabecera {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.cabecera > div {
+    display: flex;
+}
+
+.cabecera p {
+    margin: 0;
+    margin-left:10px;
+    font-size: 14px
+}
+
+.fa-html5 {
+    font-size:30px;
+}
+
+.iconos {
+    display: flex;
+    justify-content: space-between;
+    font-size: 30px;
+}
+
+.inferior {
+    padding: 10px;
+}
+
+.fa-ellipsis-v {
+    font-size:25px
+}
